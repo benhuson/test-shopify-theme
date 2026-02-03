@@ -270,6 +270,65 @@
         "padding-block-end": 0
       }
     },
+    "blocks_KCHRrz": {
+      "type": "_blocks",
+      "blocks": {
+        "ai_gen_block_a743c44_cwX6Ef": {
+          "type": "ai_gen_block_a743c44",
+          "settings": {
+            "image": "shopify://shop_images/leather-handbag.png",
+            "image_width": 50,
+            "image_border_radius": 8,
+            "metafield_key": "product_description",
+            "show_heading": true,
+            "heading": "",
+            "heading_size": 32,
+            "heading_spacing": 16,
+            "text_size": 14,
+            "desktop_width_percent": 100,
+            "vertical_alignment": "center",
+            "gap": 40,
+            "padding": 0,
+            "border_radius": 0,
+            "background_color": "#ffffff",
+            "heading_color": "#000000",
+            "text_color": "#000000"
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "ai_gen_block_a743c44_cwX6Ef"
+      ],
+      "name": "Image with product text",
+      "settings": {
+        "content_direction": "column",
+        "vertical_on_mobile": true,
+        "horizontal_alignment": "flex-start",
+        "vertical_alignment": "center",
+        "align_baseline": false,
+        "horizontal_alignment_flex_direction_column": "flex-start",
+        "vertical_alignment_flex_direction_column": "center",
+        "gap": 12,
+        "section_width": "page-width",
+        "section_height": "",
+        "section_height_custom": 50,
+        "color_scheme": "",
+        "background_media": "none",
+        "video_position": "cover",
+        "background_image_position": "cover",
+        "border": "none",
+        "border_width": 1,
+        "border_opacity": 100,
+        "border_radius": 0,
+        "toggle_overlay": false,
+        "overlay_color": "#00000026",
+        "overlay_style": "solid",
+        "gradient_direction": "to top",
+        "padding-block-start": 0,
+        "padding-block-end": 0
+      }
+    },
     "product_recommendations_qggXJq": {
       "type": "product-recommendations",
       "blocks": {
@@ -982,64 +1041,6 @@
         "gradient_direction": "to top",
         "padding-block-start": 48,
         "padding-block-end": 48
-      }
-    },
-    "blocks_KCHRrz": {
-      "type": "_blocks",
-      "blocks": {
-        "ai_gen_block_a743c44_cwX6Ef": {
-          "type": "ai_gen_block_a743c44",
-          "settings": {
-            "image_width": 50,
-            "image_border_radius": 8,
-            "metafield_key": "product_description",
-            "show_heading": true,
-            "heading": "",
-            "heading_size": 32,
-            "heading_spacing": 16,
-            "text_size": 14,
-            "desktop_width_percent": 100,
-            "vertical_alignment": "center",
-            "gap": 40,
-            "padding": 0,
-            "border_radius": 0,
-            "background_color": "#ffffff",
-            "heading_color": "#000000",
-            "text_color": "#000000"
-          },
-          "blocks": {}
-        }
-      },
-      "block_order": [
-        "ai_gen_block_a743c44_cwX6Ef"
-      ],
-      "name": "Image with product text",
-      "settings": {
-        "content_direction": "column",
-        "vertical_on_mobile": true,
-        "horizontal_alignment": "flex-start",
-        "vertical_alignment": "center",
-        "align_baseline": false,
-        "horizontal_alignment_flex_direction_column": "flex-start",
-        "vertical_alignment_flex_direction_column": "center",
-        "gap": 12,
-        "section_width": "page-width",
-        "section_height": "",
-        "section_height_custom": 50,
-        "color_scheme": "",
-        "background_media": "none",
-        "video_position": "cover",
-        "background_image_position": "cover",
-        "border": "none",
-        "border_width": 1,
-        "border_opacity": 100,
-        "border_radius": 0,
-        "toggle_overlay": false,
-        "overlay_color": "#00000026",
-        "overlay_style": "solid",
-        "gradient_direction": "to top",
-        "padding-block-start": 0,
-        "padding-block-end": 0
       }
     }
   },
